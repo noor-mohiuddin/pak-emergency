@@ -1,0 +1,2 @@
+# Module pak_emergency
+# RPC service class, partial path of RPC policy file
